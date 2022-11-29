@@ -8,14 +8,41 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
+## Application Design
+
+*Tools for layout, color, accessibility, fonts, etc. for designing user applications.*
+
+Also, check out https://github.com/goabstract/Awesome-Design-Tools.
+
+## Resources
+
+*Resources that apply to multiple areas.*
+
+* [FreeCodeCamp](https://www.freecodecamp.org/learn) - An excellent and always free programming resource.
+* [CodeAcademy](https://www.codecademy.com/) - A paid resource with a formal curriculum feel. There are some free courses.
+* [LevelUpTuts](https://levelup.video/library) - A paid tech education platform with lots of great content.
+* [Wes Bos](https://wesbos.com/courses) - A prolific web tech teacher. Several prominent free courses with excellent updated in-depth courses.
+
+## Text editors and IDEs
+
+*Tools for effciciently getting ideas from developer heads into the computer.*
+
+* VSCode
+    * [awesome-vscode](https://github.com/viatsko/awesome-vscode) - Awesome links are always awesome. Curated links for VSCode.
+* VIM
+* Emacs
+* Eclipse
+
 ## Web Development
 
 *Tools for developing, designing, testing, and deploying browser-based applications.*
 
 * Frameworks
-    * [React](https://reactjs.org/docs/getting-started.html) - Documentation with great examples from the creators of the most prominent web framework.
+    * [React](https://reactjs.org/docs/getting-started.html) - Documentation with great examples from the creators of the most prominent web framework. Also check out, https://github.com/enaqx/awesome-react.
 * Languages
     * [Typescript](https://www.typescriptlang.org/docs/) - Thorough docs from the Typescript team.
+    * JavaScript
+        * [Concepts with FunFunFunction](https://www.youtube.com/@funfunfunction/videos) - Excellent, high-energy video explanations of tough JS concepts.
 
 # Contributing
 
