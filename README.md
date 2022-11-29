@@ -13,7 +13,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Tools for developing, designing, testing, and deploying browser-based applications.*
 
 * Frameworks
-    * [React](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
+    * [React](https://reactjs.org/docs/getting-started.html) - Documentation with great examples from the creators of the most prominent web framework.
+* Languages
+    * [Typescript](https://www.typescriptlang.org/docs/) - Thorough docs from the Typescript team.
 
 # Contributing
 
