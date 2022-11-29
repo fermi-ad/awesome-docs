@@ -14,3 +14,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * Frameworks
     * [React](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/fermi-controls/awesome-docs/blob/main/CONTRIBUTING.md) first.
+
+We will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/fermi-controls/awesome-docs/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
