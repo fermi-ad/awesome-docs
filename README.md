@@ -22,6 +22,7 @@ Also, check out https://github.com/goabstract/Awesome-Design-Tools.
 * [CodeAcademy](https://www.codecademy.com/) - A paid resource with a formal curriculum feel. There are some free courses.
 * [LevelUpTuts](https://levelup.video/library) - A paid tech education platform with lots of great content.
 * [Wes Bos](https://wesbos.com/courses) - A prolific web tech teacher. Several prominent free courses with excellent updated in-depth courses.
+* [O'Reilly Learning Platform](https://learning.oreilly.com/home) - Books, courses, videos and live events by leading experts in IT covering just about every topic imaginable.  Fermilab negotiates licenses and charges departments a nominal yearly fee.  Talk to your supervisor about gaining a seat.
 
 ## Text editors and IDEs
 
