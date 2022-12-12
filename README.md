@@ -42,6 +42,7 @@ Also, check out https://github.com/goabstract/Awesome-Design-Tools.
     * [React](https://reactjs.org/docs/getting-started.html) - Documentation with great examples from the creators of the most prominent web framework. Also check out, https://github.com/enaqx/awesome-react.
 * Languages
     * [Typescript](https://www.typescriptlang.org/docs/) - Thorough docs from the Typescript team.
+      * [Total Typescript](https://www.totaltypescript.com/) - A comprehensive production-grade TypeScript training.
     * JavaScript
         * [Concepts with FunFunFunction](https://www.youtube.com/@funfunfunction/videos) - Excellent, high-energy video explanations of tough JS concepts.
 
